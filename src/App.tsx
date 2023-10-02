@@ -10,6 +10,8 @@ function App() {
       <div style={{ display: 'flex', justifyContent: 'center' }}>
         <h2>
           I am Srikanth Bethi</h2>
+        <h2>
+          I am Srikanth Hi</h2>
       </div>
     </>
   );
