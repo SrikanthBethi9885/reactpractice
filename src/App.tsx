@@ -11,7 +11,7 @@ function App() {
         <h2>
           I am Srikanth Bethi</h2>
         <h2>
-          I am Srikanth Hi</h2>
+          I am Srikanth Hi how are you</h2>
       </div>
     </>
   );
